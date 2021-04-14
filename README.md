@@ -1,6 +1,6 @@
 # Hi, I am P1aton   👋 :computer: 
 
-<p align="right" width="35%">
+<p align="right" width="250" height="180"">
   </br>
       <img align="center" alt="GIF" src="https://github.com/shazx06/shazx06/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>
