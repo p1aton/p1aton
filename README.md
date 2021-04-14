@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
 
-<details>
+
 ## My GitHub Stats
     <table>
     <tr>
@@ -44,7 +44,7 @@
         </td>
     </tr>
     </table>
-</details>
+
 
 
 
