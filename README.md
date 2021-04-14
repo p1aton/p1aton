@@ -30,8 +30,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
 
-
-![P1aton's github stats](https://github-readme-stats.vercel.app/api?username=p1aton&hide=stars&show_icons=true)
+<details>
+<summary>My GitHub Stats</summary>
+    <table>
+    <tr>
+        <td>
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=p1aton&hide=issues&show_icons=true"/>
+        </td>
+        <td>
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&layout=compact"/>
+        </td>
+    </tr>
+    </table>
+</details>
 
 
 
