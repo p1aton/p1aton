@@ -1,5 +1,10 @@
 # Hi, I am P1aton   👋 :computer: 
 
+<p align="right" width="35%">
+  </br>
+      <img align="center" alt="GIF" src="https://github.com/shazx06/shazx06/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+</p>
+
 - 📈 I'm a Data analyst and frontend developer Enthusiast!
 
 
@@ -29,10 +34,7 @@
 ![P1aton's github stats](https://github-readme-stats.vercel.app/api?username=p1aton&hide=stars&show_icons=true)
 
 
-<p align="right" width="35%">
-  </br>
-      <img align="center" alt="GIF" src="https://github.com/shazx06/shazx06/blob/master/assets/code.gif?raw=true" width="750" height="520" />
-</p>
+
 
 
 
