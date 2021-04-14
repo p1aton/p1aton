@@ -31,7 +31,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
 
 <details>
-  <summary><h2>My GitHub Stats</h2></summary>
+## My GitHub Stats
     <table>
     <tr>
         <td>
