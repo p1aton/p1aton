@@ -30,17 +30,22 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
 
-<detail>
-  <symmary><h3>My GitHub Stats</h3></summary>
+  ## &#x1f4c8; GitHub Stats
+  
+  <detail>
     <table>
     <tr>
         <td>
         <img
-            src="https://github-readme-stats.vercel.app/api?username=p1aton&hide=issues&show_icons=true"/>
+            <a href="https://github.com/p1aton/p1aton">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&hide=java,html,tex&title_color=ffffff&         text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+            </a>
         </td>
         <td>
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&layout=compact"/>
+            <a href="https://github.com/p1aton/p1aton">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=p1aton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+            </a>
         </td>
     </tr>
     </table>
