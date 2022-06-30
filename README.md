@@ -30,15 +30,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
 
-  ## &#x1f4c8; GitHub Stats
+  
   
   <detail>
+  ## &#x1f4c8; GitHub Stats
     <table>
     <tr>
         <td>
         <img
             <a href="https://github.com/p1aton/p1aton">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&hide=java,html,tex&title_color=ffffff&         text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&hide=java,html,tex&title_color=ffffff&         text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
             </a>
         </td>
         <td>
