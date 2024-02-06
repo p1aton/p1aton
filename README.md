@@ -32,27 +32,8 @@
 
   ## &#x1f4c8; GitHub Stats
   
-  <detail>
-    <table>
-    <tr>
-        <td>
-        <img
-            <a href="https://github.com/p1aton/p1aton">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-            </a>
-        </td>
-        <td>
-        <img
-            <a href="https://github.com/p1aton/p1aton">
-            ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-            </a>
-        </td>
-    </tr>
-    </table>
-  </detail>
 
-| <a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p1aton&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="p1aton's github stats" /></a> | 
-<a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&layout=compact&theme=midnight-purplefy&hide_border=true" /></a> |
+| <a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p1aton&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="p1aton's github stats" /></a> | <a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&layout=compact&theme=midnight-purplefy&hide_border=true" /></a> |
 | ------------- | ------------- |
   
   
