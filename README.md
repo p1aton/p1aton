@@ -44,7 +44,7 @@
         <td>
         <img
             <a href="https://github.com/p1aton/p1aton">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=p1aton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+            <img align="center" src="[https://github-readme-stats.vercel.app/api?username=p1aton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats](https://camo.githubusercontent.com/55556576e0e4d52c14fc9c6bc1747e077aa8066b4ef162cee44e03f1ba700ccc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65)https://camo.githubusercontent.com/55556576e0e4d52c14fc9c6bc1747e077aa8066b4ef162cee44e03f1ba700ccc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65" />
             </a>
         </td>
     </tr>
