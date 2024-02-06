@@ -1,9 +1,6 @@
 # Hi, I am P1aton   👋 :computer: 
 
-<p>
-  </br>
-      <img align="right" width="250" height="180" alt="GIF" src="https://github.com/shazx06/shazx06/blob/master/assets/code.gif?raw=true" width="750" height="520" />
-</p>
+
 
 - 📈 I'm a Data analyst and frontend developer Enthusiast!
 
