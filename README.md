@@ -30,7 +30,7 @@
   ## &#x1f4c8; GitHub Stats
   
 
-| <a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p1aton&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&PAT_1" alt="p1aton's github stats" /></a> | <a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
+| <a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api?username=p1aton&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="p1aton's github stats" /></a> | <a href="https://github.com/p1aton/p1aton"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1aton&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | ------------- | ------------- |
   
   
